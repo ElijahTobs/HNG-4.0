@@ -1,0 +1,18 @@
+  body {
+    background-image: url("myroom.jpg.jpg");
+        text-align: center
+  }
+  h5, #time {
+    font-size: 36px;
+    color: #FFD700;
+    Font Family: Roboto;
+    Font Style: Regular;
+    align: left;
+  }
+  p {
+    font-size: 64px;
+    color: #FFD700;
+    Font Family: PT Serif;
+    Font Style: Bold;
+    align: left;
+  }
